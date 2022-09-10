@@ -7,4 +7,4 @@
   - Embedded 🤖
     - [Raspberry Pi](https://www.raspberrypi.com/)
     - [Arduino](https://www.arduino.cc/)
-- 💬 Ask me about my current favorite TV shows 📺, video games 🎮, or resturants 🍜 
+- 💬 Ask me about my current favorite TV shows 📺, video games 🎮, or restaurants 🍜 
